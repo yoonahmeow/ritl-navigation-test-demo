@@ -1,0 +1,6 @@
+goal_accuracy:
+  position_cm: 10
+  orientation_deg: 5
+
+velocity:
+  max_linear: 0.9
