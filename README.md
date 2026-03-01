@@ -41,23 +41,23 @@ Software Update / Trigger
 
 ## Repository Structure
 ritl-navigation-test-demo/
-├── README.md
-├── docs/
-│   ├── architecture.md
-│   ├── navigation-validation-flow.md
-│   ├── metrics-definition.md
-│   └── sanitization-notes.md
-├── config/
-│   ├── test_cases.yaml
-│   └── thresholds.yaml
-├── runner/
-│   └── navigation_test_runner_demo.py
-├── metrics/
-│   └── navigation_metrics.py
-├── mock/
-│   └── mock_navigation_data/
-└── examples/
-    └── sample_report.md
+/├── README.md
+/├── docs/
+/│   ├── architecture.md
+/│   ├── navigation-validation-flow.md
+/│   ├── metrics-definition.md
+/│   └── sanitization-notes.md
+/├── config/
+/│   ├── test_cases.yaml
+/│   └── thresholds.yaml
+/├── runner/
+/│   └── navigation_test_runner_demo.py
+/├── metrics/
+/│   └── navigation_metrics.py
+/├── mock/
+/│   └── mock_navigation_data/
+/└── examples/
+/    └── sample_report.md
 
 ---
 
