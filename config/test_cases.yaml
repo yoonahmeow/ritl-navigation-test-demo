@@ -1,0 +1,12 @@
+tests:
+  - name: TC01
+    description: Straight-line navigation
+    start_position: POINT_A
+    destination: POINT_B
+    repeat: 2
+
+  - name: TC02
+    description: Narrow passage navigation
+    start_position: POINT_B
+    destination: POINT_C
+    repeat: 1
