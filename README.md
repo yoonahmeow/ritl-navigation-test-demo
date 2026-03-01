@@ -43,22 +43,21 @@ Software Update / Trigger
 ritl-navigation-test-demo/
 ├── README.md
 ├── docs/
-│ ├── architecture.md
-│ ├── navigation-validation-flow.md
-│ ├── metrics-definition.md
-│ └── sanitization-notes.md
+│   ├── architecture.md
+│   ├── navigation-validation-flow.md
+│   ├── metrics-definition.md
+│   └── sanitization-notes.md
 ├── config/
-│ ├── test_cases.yaml
-│ └── thresholds.yaml
+│   ├── test_cases.yaml
+│   └── thresholds.yaml
 ├── runner/
-│ └── navigation_test_runner_demo.py
+│   └── navigation_test_runner_demo.py
 ├── metrics/
-│ └── navigation_metrics.py
+│   └── navigation_metrics.py
 ├── mock/
-│ └── mock_navigation_data/
+│   └── mock_navigation_data/
 └── examples/
-└── sample_report.md
-
+    └── sample_report.md
 
 ---
 
